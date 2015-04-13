@@ -10,10 +10,16 @@ body {
 	font-size: 40px;
 	line-height: 20px;
 	}
+	
+nav {
+	font-family: "Arial Narrow", sans-serif;
+	font-size: 20px;
+	line-height: 26px;
+	letter-spacing: 25px;
+}
 h1 {
 	font-family: "Arial Narrow", sans-serif;
 	font-size: 50px;
 	line-height: 50px;
 	text-align: center;
-	padding: 35px 0px 35px 0px
 }
