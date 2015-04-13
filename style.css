@@ -1,0 +1,12 @@
+@charset "UTF-8"
+html, body, div, section, article, aside, header, hgroup, footer, nav, h1, h2, h3, h4, h5, h6, p, blockquote, adress, time, span, em, strong, img, ol, ul, li, figure, canvas, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+
+body {
+	font-family: "Times New Roman", Times, Serif;
+	font-size: 40px;
+	line-height: 20px;
+	}
