@@ -54,7 +54,7 @@ footer{
 	padding-top: 60px;
 	}
 ul {
-	font-size: 16px;
+		font-size: 16px;
 	line-height: 26px;
 	}
 a {
@@ -70,10 +70,16 @@ a {
 	margin-right: auto;
 	}
 .page1-grid {
-	width: 260px
+	width: 260px;
+}
+.page2-grid {
+	width: 273px;
 }
 .page1-gutter{
-	margin-right: 40px
+	margin-right: 40px;
+	}
+.page2-gutter{
+	margin-right: 20px;
 	}
 .column{
 	float: left;
