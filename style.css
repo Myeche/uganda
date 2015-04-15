@@ -14,15 +14,40 @@ body {
 nav {
 	font-family: "Arial Narrow", sans-serif;
 	font-size: 20px;
-	line-height: 26px;
 	letter-spacing: 25px;
 }
 h1 {
 	font-family: "Arial Narrow", sans-serif;
-	font-size: 50px;
+	font-size: 40px;
 	line-height: 50px;
 	text-align: center;
 }
 h2 {
-	font-family: "Arial Narrow", sans-serif;	
+	font-family: "Arial Narrow", sans-serif;
+	font-size: 18px;
+	line-height: 26px;
+	color: #cc3300;
 }
+h3 {
+	font-family: "Arial", sans-serif;
+	font-size: 14px;
+	line-height: 20px;
+	font-weight: bold;
+	text-transform: bold;
+	}
+h4 {
+	font-family: "Arial Narrow", sans-serif;
+	font-size: 26px;
+	line-height: 28px;
+	color: #cc3300;
+	text-transform: uppercase;
+		}
+p {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 16px;
+	line-height: 26px;
+	}
+footer{
+	font-size: 12px;
+	line-height: 16px;
+	}
