@@ -57,6 +57,7 @@ footer{
 	line-height: 16px;
 	clear: both;
 	padding-top: 60px;
+	text-align: center;
 }
 
 .photo-border {
@@ -67,6 +68,7 @@ footer{
 	width: 960px;
 	margin-left: auto;
 	margin-right: auto;
+	position: relative;
 }
 
 .page1-grid {
@@ -87,4 +89,28 @@ footer{
 
 .column{
 	float: left;
+}
+.logo-position{
+	position: relative;
+	z-index:4;
+	padding-top: 15px;
+}
+.banner-position{
+	position: relative;
+	z-index: 1;
+	box-shadow: 4px 4px 4px 4px #333;
+}
+.center-images{
+	margin-right: auto;
+	margin-left: auto;
+	display: block;
+}
+.top-yel-box-p1{
+	background-color:#ffcc33;
+	width: 960px;
+	height: 390px;
+}
+.main-50 {
+	margin-left: 50px;
+	margin-right: 50px;
 }
