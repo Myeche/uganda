@@ -25,6 +25,12 @@ nav ul {
 	z-index: 15;
 	top: -54px;
 }
+nav ul li:nth-child(1){
+	padding-left: 125px;
+}
+nav ul li:nth-child(3){
+	padding-left: 189px;
+}
 
 h1 {
 	font-family: "Arial Narrow", sans-serif;
