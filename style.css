@@ -15,7 +15,7 @@ nav ul li{
 	font-size: 20px;
 	line-height: 26px;
 	text-transform: uppercase;
-	letter-spacing: 0.05em;
+	letter-spacing: .05em;
 	padding-right: 25px;
 	display: inline;
 }
@@ -132,7 +132,7 @@ footer{
 .top-yel-box-p2{
 	background-color:#ffcc33;
 	width: 960px;
-	height: 100px;
+	height: 150px;
 }
 .main-50 {
 	margin-left: 50px;
