@@ -10,10 +10,14 @@ body {
 	line-height: 20px;
 }
 	
-nav {
+nav ul li{
 	font-family: "Arial Narrow", sans-serif;
 	font-size: 20px;
 	line-height: 26px;
+	text-transform: uppercase;
+	letter-spacing: 0.05em;
+	padding-right: 25px;
+	display: inline;
 }
 
 h1 {
