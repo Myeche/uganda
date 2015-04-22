@@ -31,6 +31,9 @@ nav ul li:nth-child(1){
 nav ul li:nth-child(3){
 	padding-right: 189px;
 }
+ul li {
+	list-style-position: inside;
+}
 
 h1 {
 	font-family: "Arial Narrow", sans-serif;
@@ -54,6 +57,7 @@ h3 {
 	line-height: 20px;
 	font-weight: bold;
 	text-transform: uppercase;
+	padding-top: 20px;
 }
 
 h4 {
