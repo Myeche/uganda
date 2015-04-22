@@ -1,3 +1,4 @@
+@import url(http://fonts.googleapis.com/css?family=Roboto+Condensed:400,700);
 html, body, div, section, article, aside, header, hgroup, footer, nav, h1, h2, h3, h4, h5, h6, p, blockquote, adress, time, span, em, strong, img, ol, ul, li, figure, canvas, video {
 	margin: 0;
 	padding: 0;
@@ -9,9 +10,9 @@ body {
 	font-size: 14px;
 	line-height: 20px;
 }
-	
-nav ul li{
-	font-family: "Arial Narrow", sans-serif;
+
+nav ul li {
+	font-family: "Roboto Condensed","Arial Narrow", sans-serif;
 	font-size: 20px;
 	line-height: 26px;
 	text-transform: uppercase;
@@ -25,10 +26,10 @@ nav ul {
 	z-index: 15;
 	top: -54px;
 }
-nav ul li:nth-child(1){
+nav ul li:nth-child(1) {
 	padding-left: 125px;
 }
-nav ul li:nth-child(3){
+nav ul li:nth-child(3) {
 	padding-right: 189px;
 }
 ul li {
@@ -73,7 +74,17 @@ p {
 	font-size: 16px;
 	line-height: 26px;
 }
-
+a{
+	font-weight: bold;
+	color: #000000;
+}
+a:hover{
+	color: #CC3300;
+	text-decoration: none;
+}
+nav a {
+	text-decoration: none;
+}
 footer{
 	font-size: 12px;
 	line-height: 16px;
