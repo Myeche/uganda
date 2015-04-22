@@ -19,6 +19,12 @@ nav ul li{
 	padding-right: 25px;
 	display: inline;
 }
+nav ul {
+	position: relative;
+	text-align: left;
+	z-index: 15;
+	top: -54px;
+}
 
 h1 {
 	font-family: "Arial Narrow", sans-serif;
